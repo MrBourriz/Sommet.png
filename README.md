@@ -1,1 +1,1 @@
-# Auberge.png
+# Sommet.png
